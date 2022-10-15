@@ -8,4 +8,4 @@ Sonra klasörün içerisinde bir powershell ya da cmd penceresi aç.
 npm install yazarak tüm modülleri kur.
 Kurulum bittikten sonra `node .js` yaz ve botu başlat.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/395578294487220235?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/395578294487220235)
+[![Discord Presence](https://lanyard.cnrad.dev/api/153930618005094400?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/153930618005094400)
