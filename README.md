@@ -10,4 +10,4 @@ Kurulum bittikten sonra `node .js` yaz ve botu başlat.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/153930618005094400?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/153930618005094400)
 
-[https://cdn.discordapp.com/attachments/1023658538427498546/1030746202976833576/unknown.png](https://cdn.discordapp.com/attachments/1023534708627357778/1030747166303588352/unknown.png)
+blob:https://pixlr.com/452c7da1-db76-4515-a905-a8e5487c9d37
